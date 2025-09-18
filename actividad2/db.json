@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "nombre": "Laptop Pro",
+    "precio": 1200.50,
+    "disponible": true,
+    "especificaciones": {
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "id": 102,
+    "nombre": "Mouse inalámbrico",
+    "precio": 25.00,
+    "disponible": false,
+    "especificaciones": {
+      "dpi": "1600",
+      "color": "Negro"
+    }
+  },
+  {
+    "id": 103,
+    "nombre": "Teclado mecánico",
+    "precio": 85.99,
+    "disponible": true,
+    "especificaciones": {
+      "tipoSwitch": "Blue",
+      "idioma": "ES"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "string",
+    "nombre": "string",
+    "doctor": "string",
+    "casoEspecial": "string",
+    "fechaRegistro": "string",
+    "fechaAtencion": "string | null"
+  }
+]
